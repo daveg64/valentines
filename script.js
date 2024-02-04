@@ -6,7 +6,7 @@ const secs = document.getElementById("sec");
 const func = () => {
   const today = Date.now();
 
-  const newdate = new Date("Feburary 14, 2024 00:00:00");
+  const newdate = new Date("Feburary 11, 2024 00:00:00");
 
   var diff = newdate - today;
 
